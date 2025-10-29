@@ -1,0 +1,10 @@
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
+.body{
+    background-color: aliceblue;
+    padding: 1px;
+    
+}
